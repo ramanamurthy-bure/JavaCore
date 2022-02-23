@@ -27,5 +27,7 @@ public class StreamsTests {
 			System.out.println(arls.get(i));
 		}
 		System.out.println("**********************************************************");
+		
+		System.out.println("*********************Streamms*******************************");
 	}
 }
